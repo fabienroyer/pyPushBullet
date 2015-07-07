@@ -7,7 +7,7 @@ setup(name='pushbullet',
       author='Azelphur',
       author_email='support@azelphur.com',
       license='GPL',
-      packages=['pushbullet'],
+      packages=['pb'],
       zip_safe=False,
       install_requires=[
           'websocket-client',
