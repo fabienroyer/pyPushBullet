@@ -23,7 +23,7 @@ You can get your API Key from https://www.pushbullet.com/account
 Using the library:
 
 ```python
-from pushbullet import PushBullet
+import pb
 
 apiKey = "YOUR_API_KEY_HERE"
 p = PushBullet(apiKey)
